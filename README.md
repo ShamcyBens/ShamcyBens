@@ -14,6 +14,7 @@
   - Django
   - Python
   - JavaScript
+  - Flask
   - Ruby on Rails
   - Front-end technologies (HTML, CSS, JavaScript)
   - Full-stack development
@@ -23,7 +24,7 @@
 ## Contact Me
 
 - ✉️ You can reach me via email at bernardshammah@gmail.com
-- 💬 Connect with me on [LinkedIn][(https://www.linkedin.com/in/your-profile)](https://www.linkedin.com/in/shama-bernard-a6822723b/)]
+- 💬 Connect with me on [(https://www.linkedin.com/in/shama-bernard-a6822723b/)]
 
 
 Thank you for visiting my GitHub profile! Let's connect and collaborate on exciting projects.
