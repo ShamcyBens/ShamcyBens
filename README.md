@@ -3,7 +3,7 @@
 ## About Me
  
 - 🌍 I'm a passionate developer based in Nairobi, Kenya
-- 💻 I specialize in Django, Python, JavaScript, Ruby, and full-stack development
+- 💻 I specialize in Django, Python, JavaScript, Flask, and full-stack development
 - 🌱 I'm constantly learning and improving my skills in web and software development
 - - 💞️ I’m looking to collaborate with Companies like Google, Microsoft Telecommunications companies Like Safaricom...
 - 📫 How to reach me. You can send me an email at bernardshammah@gmail.com...
